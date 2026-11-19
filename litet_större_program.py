@@ -1,4 +1,4 @@
-import json
+imort json
 
 FILENAME = "notes.json"
 
